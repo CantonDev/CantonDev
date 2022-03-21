@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davicanton/)
 [<img src="https://img.shields.io/github/followers/CantonDev?label=follow&style=social" height="22" title="Me siga" />](https://github.com/CantonDev) 
-[![Instagram](https://qualificamaisbrasil.com.br/wp-content/uploads/2020/05/logo-instagram-png-sem-fundo10.png) height= "12"](https://www.instagram.com/canton.png)
+[![Instagram](https://qualificamaisbrasil.com.br/wp-content/uploads/2020/05/logo-instagram-png-sem-fundo10.png) height="12"](https://www.instagram.com/canton.png)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davihmcanton@gmail.com)
 
 
