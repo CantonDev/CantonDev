@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davicanton/)
 [<img src="https://img.shields.io/github/followers/CantonDev?label=follow&style=social" height="22" title="Me siga" />](https://github.com/CantonDev) 
-[![Instagram] width= "12"(https://qualificamaisbrasil.com.br/wp-content/uploads/2020/05/logo-instagram-png-sem-fundo10.png)](https://www.instagram.com/canton.png)
+[![Instagram](https://qualificamaisbrasil.com.br/wp-content/uploads/2020/05/logo-instagram-png-sem-fundo10.png)](https://www.instagram.com/canton.png)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davihmcanton@gmail.com)
 
 
@@ -12,7 +12,7 @@ I am currently doing freelances sites with a friend. I love listening to music :
 <img align= "right" width= "350" src= "https://thumbs.gfycat.com/ClosedDiscreteBlackbear-size_restricted.gif"/>
 
 
-- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+- � I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> </code>
